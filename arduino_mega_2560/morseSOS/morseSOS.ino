@@ -1,6 +1,6 @@
-#include <Morse.h>
+#include "Morse.h"
 
-Morse morse(5)
+Morse morse(5);
 
 void setup()
 {
